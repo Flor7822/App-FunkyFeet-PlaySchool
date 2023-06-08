@@ -1,5 +1,5 @@
 {
-  "name": "App-FunkyFeet-PlaySchool",
+  "name": "App_FunkyFeet_PlaySchool",
   "version": "1.0.0",
   "description": "Aplicación para gestión de centro de una guardería",
   "main": "index.js",
@@ -11,13 +11,14 @@
     "url": "git+https://github.com/Flor7822/App-FunkyFeet-PlaySchool.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rebeca G. Varela y María Florencia Biscardi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Flor7822/App-FunkyFeet-PlaySchool/issues"
   },
   "homepage": "https://github.com/Flor7822/App-FunkyFeet-PlaySchool#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
   }
 }
